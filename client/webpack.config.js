@@ -32,8 +32,8 @@ module.exports = () => {
         // Create a manifest.json: (then NPM run start)
         fingerprints: false,
         inject: true,
-        name: 'JATE',
-        short_name: 'JATE',
+        name: 'jate',
+        short_name: 'jate',
         description: 'Just Another Text Editor',
         background_color: '#ffffff',
         theme_color: '#ffffff',
